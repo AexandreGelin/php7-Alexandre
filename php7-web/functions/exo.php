@@ -19,4 +19,4 @@ $complimentStep3 = [ "la jungle ", "php ", "league of legend ", "football "];
 
 $complimentStep4 = [ "skill." , "nuclearité.", "congolexicomatisation des lois du marché.", "hippie"];
 
-print  $static . $complimentStep1[$random] . $complimentStep2[$random2]. $static2 . $complimentStep3[$random3] . $static3 . $complimentStep4[$random4]."\n";
+$display =  $static . $complimentStep1[$random] . $complimentStep2[$random2]. $static2 . $complimentStep3[$random3] . $static3 . $complimentStep4[$random4]."\n";
